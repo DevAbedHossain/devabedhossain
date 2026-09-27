@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devabedhossain&label=Profile%20views&color=0e75b6&style=flat" alt="devabedhossain" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devabedhossain" alt="devabedhossain" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/" alt="devabedhossain" /></a> </p>
 
 - 🌱 I’m currently learning **AI Driven Full Stack Web Engineer**
 

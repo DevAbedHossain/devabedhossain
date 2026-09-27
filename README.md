@@ -1,4 +1,4 @@
-<img src="/Banner/abed-hossaon-raju.jpg" alt="devabedhossain" />
+<img src="/Banner/abed-hossain-raju.jpg" alt="devabedhossain" />
 
 <h1 align="center">Hi 👋, I'm Abed Hossain Raju</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
